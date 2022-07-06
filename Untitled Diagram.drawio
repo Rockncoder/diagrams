@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T16:18:30.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="a7m8FoAJeWtO35LeEZ5s" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-06T16:42:04.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="OVKj8eS0X2jibLT6jmLI" version="20.0.4" type="github">
   <diagram id="lso4CgWFJm9PFkCe8dIS" name="Page-1">
     <mxGraphModel dx="1405" dy="1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TjnUEet7D5vF7Cb2XcUt-1" value="A" style="fillColor=none;strokeColor=none;pointerEvents=0;fontStyle=0;html=1;whiteSpace=wrap;container=1;collapsible=0;childLayout=stackLayout;resizeParent=1;dropTarget=0;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+        <mxCell id="TjnUEet7D5vF7Cb2XcUt-1" value="" style="fillColor=none;strokeColor=none;pointerEvents=0;fontStyle=0;html=1;whiteSpace=wrap;container=1;collapsible=0;childLayout=stackLayout;resizeParent=1;dropTarget=0;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
           <mxGeometry x="60" y="59" width="1200" height="900" as="geometry" />
         </mxCell>
         <mxCell id="TjnUEet7D5vF7Cb2XcUt-2" value="Outside Organizations" style="swimlane;html=1;whiteSpace=wrap;connectable=0;startSize=30;dropTarget=0;rounded=0;spacing=0;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=16.7;fontColor=#3a414a;fontStyle=1;" vertex="1" parent="TjnUEet7D5vF7Cb2XcUt-1">
